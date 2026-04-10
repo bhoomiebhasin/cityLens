@@ -44,7 +44,7 @@ CityLens is a **decision-support tool for urban planners and sustainability team
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/bhoomiebhasin/cityLens_sustainAI.git
+git clone https://github.com/bhoomiebhasin/cityLens.git
 cd cityLens_sustainAI
 ```
 
